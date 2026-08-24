@@ -1,5 +1,22 @@
 **Start of read me file for #whatsinmycity**
 
-**To create the database locally, you only need to run: 00_Create_Database_Schema.sql**
 
-**Important: Please note that the script is only valid when there is no local instance of the whatsinmycity database**
+
+**## SQL Server requirements** 
+
+
+
+**Version: 2022 (16.x) or newer** 
+
+
+
+\## Creating the database 
+
+
+
+1. In SQL MMS, click on File > Open > 00\_Create\_Database\_Schema.sql
+
+2\. Execute the query and wait until finish
+
+
+
