@@ -2,7 +2,7 @@
 
 
 
-**## SQL Server requirements** 
+**##SQL Server requirements** 
 
 
 
