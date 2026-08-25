@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="s0CYGsTNonnq7VcBLgI4">
+    <mxGraphModel dx="985" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-5" edge="1" parent="1" source="jFztiBn8H1f3W_FVl4aq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jFztiBn8H1f3W_FVl4aq-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-9" edge="1" parent="1" source="jFztiBn8H1f3W_FVl4aq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="jFztiBn8H1f3W_FVl4aq-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-12" edge="1" parent="1" source="jFztiBn8H1f3W_FVl4aq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="jFztiBn8H1f3W_FVl4aq-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="135" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Administrator" vertex="1">
+          <mxGeometry height="30" width="90" x="270" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-7" edge="1" parent="1" source="jFztiBn8H1f3W_FVl4aq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="310" />
+              <mxPoint x="270.8" y="310" />
+            </Array>
+            <mxPoint x="270.8" y="348.15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-4" parent="1" style="whiteSpace=wrap;html=1;" value="Add&amp;nbsp; Attraction" vertex="1">
+          <mxGeometry height="40" width="110" x="70" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-16" edge="1" parent="1" source="jFztiBn8H1f3W_FVl4aq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jFztiBn8H1f3W_FVl4aq-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-6" parent="1" style="whiteSpace=wrap;html=1;" value="1.1 Maintain Tourist Attractions" vertex="1">
+          <mxGeometry height="50" width="180" x="230" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-8" parent="1" style="whiteSpace=wrap;html=1;" value="Update Attraction" vertex="1">
+          <mxGeometry height="40" width="110" x="260" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-14" edge="1" parent="1" source="jFztiBn8H1f3W_FVl4aq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="310" />
+              <mxPoint x="364.4" y="310" />
+            </Array>
+            <mxPoint x="364.4" y="349.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-11" parent="1" style="whiteSpace=wrap;html=1;" value="Delete Attraction" vertex="1">
+          <mxGeometry height="40" width="100" x="460" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-13" edge="1" parent="1" source="jFztiBn8H1f3W_FVl4aq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=-0.076;entryDx=0;entryDy=0;entryPerimeter=0;" target="jFztiBn8H1f3W_FVl4aq-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-18" edge="1" parent="1" source="jFztiBn8H1f3W_FVl4aq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jFztiBn8H1f3W_FVl4aq-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-15" parent="1" style="whiteSpace=wrap;html=1;" value="Validate Attraction Information" vertex="1">
+          <mxGeometry height="60" width="200" x="220" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-20" edge="1" parent="1" source="jFztiBn8H1f3W_FVl4aq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jFztiBn8H1f3W_FVl4aq-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-17" parent="1" style="whiteSpace=wrap;html=1;" value="TOURIST_ATTRACTION Database" vertex="1">
+          <mxGeometry height="40" width="200" x="220" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jFztiBn8H1f3W_FVl4aq-21" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="770" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-19" parent="1" style="whiteSpace=wrap;html=1;" value="Confirmation Information" vertex="1">
+          <mxGeometry height="40" width="210" x="215" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="jFztiBn8H1f3W_FVl4aq-21" parent="1" style="whiteSpace=wrap;html=1;" value="Administrator" vertex="1">
+          <mxGeometry height="40" width="120" x="260" y="900" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
