@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\chatbothelpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\chatbothelpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\attractionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\attractionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\adminreportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\adminreportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\travelpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\travelpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\userprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\userprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\userprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\userprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\travelpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\travelpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|c:\\users\\thabelo\\desktop\\what\u0027sinmycity\\what\u0027sinmycity\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEA22EA3-D93F-43D1-9F0A-896846E81C12}|What\u0027sInMyCity\\What\u0027sInMyCity.csproj|solutionrelative:what\u0027sinmycity\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\BookingForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\BookingForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\BookingForm.cs [Design]",
+              "RelativeToolTip": "What\u0027sInMyCity\\BookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:50:11.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TravelPassForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\TravelPassForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\TravelPassForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\TravelPassForm.cs [Design]",
+              "RelativeToolTip": "What\u0027sInMyCity\\TravelPassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:50:28.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\AdminReportsForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\AdminReportsForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\AdminReportsForm.cs [Design]",
+              "RelativeToolTip": "What\u0027sInMyCity\\AdminReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:51:06.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttractionsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\AttractionsForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\AttractionsForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\AttractionsForm.cs [Design]",
+              "RelativeToolTip": "What\u0027sInMyCity\\AttractionsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:49:50.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatbotHelpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\ChatbotHelpForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\ChatbotHelpForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\ChatbotHelpForm.cs [Design]",
+              "RelativeToolTip": "What\u0027sInMyCity\\ChatbotHelpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:51:26.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\LoginForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\LoginForm.cs [Design]",
+              "RelativeToolTip": "What\u0027sInMyCity\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:49:05.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\UserProfileForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\UserProfileForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\UserProfileForm.cs",
+              "RelativeToolTip": "What\u0027sInMyCity\\UserProfileForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T17:14:58.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\UserProfileForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\UserProfileForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\UserProfileForm.cs [Design]",
+              "RelativeToolTip": "What\u0027sInMyCity\\UserProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:50:46.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\MainForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\MainForm.cs [Design]",
+              "RelativeToolTip": "What\u0027sInMyCity\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:49:32.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TravelPassForm.cs",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\TravelPassForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\TravelPassForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\TravelPassForm.cs",
+              "RelativeToolTip": "What\u0027sInMyCity\\TravelPassForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T16:41:26.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "What\u0027sInMyCity\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Thabelo\\Desktop\\What\u0027sInMyCity\\What\u0027sInMyCity\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "What\u0027sInMyCity\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T16:46:50.066Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
