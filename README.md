@@ -18,5 +18,12 @@
 
 2. Execute the query and wait until finish
 
+## Connecting to the database
+
+Make use of the database connection helper class "DatabaseHelper.cs". 
+1. In app.config edit the connection String, by copying in your own local connection string
+2. if using SQL Express, your connectionString will have Data Source = localhost\SQLEXPRESS
+
+
 
 
