@@ -54,3 +54,8 @@ dkms.conf
 # debug information files
 *.dwo
 /.vs
+
+# Visual Studio Files
+**/.vs/
+**/bin/
+**/obj/
