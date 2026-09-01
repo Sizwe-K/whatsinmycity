@@ -19,12 +19,13 @@ namespace What_sInMyCity
 {
     public partial class ChatbotHelpForm : Form
     {
+        // Declaring the private field for the chat client
         private ChatClient chatClient;
 
         private const string systemPrompt =
             "You are a helpful travel assistant inside the #whatsinmycity platform. " +
             "You provide helpful information about local attractions and available transport services.";
-        
+
         public ChatbotHelpForm()
         {
             InitializeComponent();
@@ -38,13 +39,13 @@ namespace What_sInMyCity
         private void txtInput_TextChanged(object sender, EventArgs e)
         {
             // Get the user message from the input textbox
-            string userMessage = txtInput.Text; 
+            string userMessage = txtInput.Text;
         }
 
-        private void btnSubmit_Click(object sender, EventArgs e)
+        private async void btnSubmit_Click(object sender, EventArgs e)
         {
-        // Connecting the chatgpt key via environment variable
-        string apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
+            // Connecting the chatgpt key via environment variable
+            string apiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
 
             // System 
 
@@ -59,20 +60,40 @@ namespace What_sInMyCity
                 // Initialize the chat client with the API key
                 chatClient = new ChatClient("gpt-5.1", apiKey);
 
-        // Get the user message from the input textbox
-             string userMessage = txtInput.Text;
+                // Get the user message from the input textbox
+                string userMessage = txtInput.Text;
                 // Check if the user message is empty
                 if (string.IsNullOrWhiteSpace(userMessage))
                 {
                     MessageBox.Show("Please enter a message.");
                     return;
                 }
-                // Call the ChatGPT API to get a response
-                string botResponse = OpenAI.GetResponse(userMessage, apiKey);
-                // Display the bot response in the output textbox
-                txtOutput.Text = botResponse;
-            }
+                btnSubmit.Enabled = false; // Disabling the submit button to prevent multiple submissions
 
+                // Creating list of messages to send to the chat
+                try
+                {
+                    List<ChatMessage> messages =
+                        new List<ChatMessage>
+                        {
+                            new SystemChatMessage(systemPrompt),
+                            new UserChatMessage(userMessage)
+                        };
+
+                    ChatCompletion completion = await chatClient.CompleteChatAsync(messages); // Send the text to chatgpt
+
+                    txtBoxOutput.Text = completion.Content[0].Text; // Display response
+                }
+                catch (Exception ex)
+                {
+                    txtBoxOutput.Text = "Unable to connect to the chat service" + ex;
+                }
+                finally
+                {
+                    btnSubmit.Enabled = true; // Enabling the submit button again
+                }
+
+            }
         }
     }
 }
