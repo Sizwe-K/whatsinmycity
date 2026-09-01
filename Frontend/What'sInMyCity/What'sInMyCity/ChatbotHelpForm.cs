@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+using System;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
@@ -10,8 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Net.Mime.MediaTypeNames;
-using OpenAI.Chat;
-using System.Drawing.Text; // Calling the openAI SDK
+using System.Drawing.Text; 
+using What_sInMyCity.Services;
 
 
 
@@ -19,12 +18,9 @@ namespace What_sInMyCity
 {
     public partial class ChatbotHelpForm : Form
     {
-        // Declaring the private field for the chat client
-        private ChatClient chatClient;
-
         private const string systemPrompt =
-            "You are a helpful travel assistant inside the #whatsinmycity platform. " +
-            "You provide helpful information about local attractions and available transport services.";
+            "You are a helpful, conversational travel assistant inside the #whatsinmycity platform. For now, assume the logged in user's name Melusi" +
+            "You provide helpful information about local attractions and available transport services. Answers should be concise, and straight to the point." + "Do not send suggested follow up questons, like for e.g 'If you want, I can give you suggested places through a budget. No. Be conversational, but direct. Like a normal human'";
 
         public ChatbotHelpForm()
         {
@@ -57,9 +53,6 @@ namespace What_sInMyCity
             }
             else
             {
-                // Initialize the chat client with the API key
-                chatClient = new ChatClient("gpt-5.1", apiKey);
-
                 // Get the user message from the input textbox
                 string userMessage = txtInput.Text;
                 // Check if the user message is empty
@@ -70,19 +63,17 @@ namespace What_sInMyCity
                 }
                 btnSubmit.Enabled = false; // Disabling the submit button to prevent multiple submissions
 
-                // Creating list of messages to send to the chat
+                
                 try
                 {
-                    List<ChatMessage> messages =
-                        new List<ChatMessage>
-                        {
-                            new SystemChatMessage(systemPrompt),
-                            new UserChatMessage(userMessage)
-                        };
+                    // Calling the openAIChat service to send a message and get a response
+                    txtBoxOutput.Text = await OpenAIChatService.SendMessageAsync(
+                        apiKey,
+                        systemPrompt,
+                        userMessage); // Send the text to ChatGPT and display the response
 
-                    ChatCompletion completion = await chatClient.CompleteChatAsync(messages); // Send the text to chatgpt
-
-                    txtBoxOutput.Text = completion.Content[0].Text; // Display response
+                    // Clear text input
+                    txtInput.Clear();
                 }
                 catch (Exception ex)
                 {

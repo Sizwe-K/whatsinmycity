@@ -51,7 +51,7 @@
             // 
             this.txtBoxOutput.Location = new System.Drawing.Point(424, 330);
             this.txtBoxOutput.Name = "txtBoxOutput";
-            this.txtBoxOutput.Size = new System.Drawing.Size(763, 126);
+            this.txtBoxOutput.Size = new System.Drawing.Size(763, 264);
             this.txtBoxOutput.TabIndex = 2;
             this.txtBoxOutput.Text = "";
             // 

@@ -74,6 +74,7 @@
     <Compile Include="ChatbotHelpForm.Designer.cs">
       <DependentUpon>ChatbotHelpForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Services\OpenAIChatService.cs" />
     <Compile Include="Data\DatabaseHelper.cs" />
     <Compile Include="RegisterForm.cs">
       <SubType>Form</SubType>

@@ -59,6 +59,7 @@ dkms.conf
 **/.vs/
 **/bin/
 **/obj/
+*.assets.cache
 
 # Local NuGet restore packages
 **/packages/
