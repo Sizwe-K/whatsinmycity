@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Configuration;
 using System.Data.SqlClient;
 
-namespace What_sInMyCity.Data
+namespace WhatsInMyCity.Data
 {
     public static class DatabaseHelper
     {
